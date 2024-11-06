@@ -4,7 +4,7 @@ import { defineConfig } from '@playwright/test';
 
 const Credentials = [
 
-    'kofiakuffobpafp@gmail.com',
+    'kofiakuffoboafo@gmail.com',
     'Fred@Axon'
 
 ] as const
