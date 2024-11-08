@@ -30,7 +30,14 @@
 
 ## Subscription
 
+**1.** Change Subscription
+**2.** Cancel Subscription
+**NB** Check what happens after subcription is cancelled
+
+
 ## Invitations
+
+What does invitation stand for
 
 ## System
 
@@ -82,3 +89,6 @@
 
 
 ## Change Password
+
+**1.** Change password with valid password
+**2.** Enter same password in all fields 
