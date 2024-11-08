@@ -7,6 +7,7 @@
 2. Check to see if the url changes from  **http://84.247.134.126:97** to **http://84.247.134.126:97/auth/login**.
 
 3. Check if the axonpayroll logo is visible
+4. Check if close button on forgot password page returns you login page
 
 
 ## Test Cases
