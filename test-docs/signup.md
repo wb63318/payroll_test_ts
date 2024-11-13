@@ -46,5 +46,10 @@ System should prompt user to proceed to form cancellation or not.
 
 ### Negative Test Cases
 
-**1.** Invalid Input - Empty Entries
+**1.** Invalid Input - 
 **Description :** Leave all text fields empty and proceed to the next stage.
+
+**Steps:**
+- Enter URL in the browser and wait for the Login page to load
+- Click on the Sign Up button below the Login button
+- 

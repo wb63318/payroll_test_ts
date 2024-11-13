@@ -4,11 +4,10 @@
 
 1. Check if the login page is accessible
 
-2. Check to see if the url changes from  **http://84.247.134.126:97** to **http://84.247.134.126:97/auth/login**.
+2. Check to see if the url changes from  **<http://84.247.134.126:97>** to **<http://84.247.134.126:97/auth/login>**.
 
 3. Check if the axonpayroll logo is visible
 4. Check if close button on forgot password page returns you login page
-
 
 ## Test Cases
 
@@ -28,9 +27,7 @@
 
 **Result:** This should be a **PASS** else a **NOTE** should be added to state what actually happened / the **error** message returned.
 
-
 ## Negative Test Cases
-
 
 **1.** Invalid Input - Email Not Provided
 
@@ -43,16 +40,10 @@
 - Leave email field empty
 - Click on `Login` button
 
-**Expected Outcome:** 
+**Expected Outcome:**
 **Creation Fails**
 An error message should appear below the email field stating that `Email is required` therefore prompting the user enter his/her email.
 
 **Result:** `PASS`
 
 **2.** Invalid Input - Password not Provided
-
-
-
-
-
-
